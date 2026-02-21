@@ -1,0 +1,19 @@
+{
+    "files.autoSave": "afterDelay",
+    "github.copilot.chat.agent.currentEditorContext.enabled": false,
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "editor.inlineSuggest.edits.allowCodeShifting": "horizontal",
+    "editor.inlineSuggest.enabled": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.parameterHints": false,
+    "editor.suggest.showDescription": false,     // Desactiva la descripción de la sugerencia
+    "editor.suggest.showMethodSuggestions": false, // Desactiva las sugerencias de métodos de las funciones
+    "editor.suggest.showFunctions": false,       // Desactiva las sugerencias de funciones con descripciones
+    "editor.suggest.showVariables": false,       // Desactiva las sugerencias de variables si no las necesitas
+    "editor.suggest.showSnippets": false         // Desactiva las sugerencias de fragmentos de código
+}

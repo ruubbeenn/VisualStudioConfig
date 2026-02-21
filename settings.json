@@ -13,7 +13,7 @@
     "editor.parameterHints": false,
     "editor.suggest.showDescription": false,     // Desactiva la descripción de la sugerencia
     "editor.suggest.showMethodSuggestions": false, // Desactiva las sugerencias de métodos de las funciones
-    "editor.suggest.showFunctions": false,       // Desactiva las sugerencias de funciones con descripciones
-    "editor.suggest.showVariables": false,       // Desactiva las sugerencias de variables si no las necesitas
-    "editor.suggest.showSnippets": false         // Desactiva las sugerencias de fragmentos de código
+    "editor.suggest.showFunctions": true,       // Desactiva las sugerencias de funciones con descripciones
+    "editor.suggest.showVariables": true,       // Desactiva las sugerencias de variables si no las necesitas
+    "editor.suggest.showSnippets": true         // Desactiva las sugerencias de fragmentos de código
 }
